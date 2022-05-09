@@ -17,6 +17,7 @@ Looking to deliver applications and services at a high velocity? These specially
 - AWS Development Tools Services Overview 
 - Introduction to AWS Comand Line Interface ( CLI ) 
 - Developing enterprise application patterns with the AWS CDK
+( https://aws.amazon.com/pt/blogs/devops/developing-application-patterns-cdk/?trk=el_a134p000007CIgHAAW&trkCampaign=APAC-FY21-TrainCert-DeveloperCampaign_IN_Uberflip&sc_channel=el&sc_campaign=TrainCert-DeveloperCampaign_IN_Uberflip_APAC_FY21_Q3_tclever_FLC_EL&sc_outcome=Training_and_Certification&sc_geo=APAC&sc_country=mult ) 
 - Integrating with Aarogya Setu Open API on AWS to ensure a safe workspace
 - CI/CD with AWS CodeCommit, CodeBuild, CodeDeploy, and CodePipeline
 - Choosing a Well-Architected CI/CD approach
