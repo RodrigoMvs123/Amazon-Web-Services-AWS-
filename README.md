@@ -27,7 +27,7 @@ Looking to deliver applications and services at a high velocity? These specially
 ( https://aws.amazon.com/pt/blogs/devops/integrating-with-aarogya-setu-open-api-on-aws-to-ensure-a-safe-workspace/?trk=el_a134p000007CIgHAAW&trkCampaign=APAC-FY21-TrainCert-DeveloperCampaign_IN_Uberflip&sc_channel=el&sc_campaign=TrainCert-DeveloperCampaign_IN_Uberflip_APAC_FY21_Q3_tclever_FLC_EL&sc_outcome=Training_and_Certification&sc_geo=APAC&sc_country=mult )
 - CI/CD with AWS CodeCommit, CodeBuild, CodeDeploy, and CodePipeline 
 (   https://aws.amazon.com/pt/blogs/devops/complete-ci-cd-with-aws-codecommit-aws-codebuild-aws-codedeploy-and-aws-codepipeline/?trk=el_a134p000007CIgHAAW&trkCampaign=APAC-FY21-TrainCert-DeveloperCampaign_IN_Uberflip&sc_channel=el&sc_campaign=TrainCert-DeveloperCampaign_IN_Uberflip_APAC_FY21_Q3_tclever_FLC_EL&sc_outcome=Training_and_Certification&sc_geo=APAC&sc_country=mult ) 
-- Choosing a Well-Architected CI/CD approach
+- Choosing a Well-Architected CI/CD approach ( https://aws.amazon.com/pt/blogs/devops/choosing-well-architected-ci-cd-open-source-software-aws-services/?trk=el_a134p000007CIgHAAW&trkCampaign=APAC-FY21-TrainCert-DeveloperCampaign_IN_Uberflip&sc_channel=el&sc_campaign=TrainCert-DeveloperCampaign_IN_Uberflip_APAC_FY21_Q3_tclever_FLC_EL&sc_outcome=Training_and_Certification&sc_geo=APAC&sc_country=mult )
 
 Building with serverless services on AWS
 Building more agile applications by taking the serverless route enables you to innovate and respond to change faster. Learn how AWS can handle infrastructure management tasks like capacity provisioning and patching, so you can focus on only writing code.
