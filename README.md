@@ -3,6 +3,8 @@ https://docs.aws.amazon.com/index.html
 
 https://aws.amazon.com/pt/cloudformation/
 
+https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-simple-codecommit.html
+
 Developer Hub 
 
 Introduction to AWS
